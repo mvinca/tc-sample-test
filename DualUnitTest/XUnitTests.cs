@@ -8,7 +8,7 @@ namespace DualUnitTest
         [Fact]
         public void XUnitTest1()
         {
-            Assert.Equal(2+2,5);
+            Assert.Equal(2+2,4);
         }
     }
 }
