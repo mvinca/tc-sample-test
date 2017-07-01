@@ -8,7 +8,7 @@ namespace DualUnitTest
         [Test]
         public void NUnitTest1()
         {
-            Assert.AreEqual(2 + 2, 4);
+            Assert.AreEqual(2 + 2, 5);
         }
     }
 }
