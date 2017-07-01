@@ -3,10 +3,10 @@ using Xunit;
 
 namespace DualUnitTest
 {
-    class XUnitTests
+    public class XUnitTests
     {
         [Fact]
-        public void Test1()
+        public void XUnitTest1()
         {
             Assert.Equal(2+2,4);
         }

@@ -3,10 +3,10 @@
 namespace DualUnitTest
 {
     [TestFixture]
-    class NUnitTests
+    public class NUnitTests
     {
         [Test]
-        public void Test1()
+        public void NUnitTest1()
         {
             Assert.AreEqual(2 + 2, 4);
         }
