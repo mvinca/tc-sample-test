@@ -10,5 +10,11 @@ namespace DualUnitTest
         {
             Assert.AreEqual(2 + 2, 4);
         }
+
+        [Test]
+        public void NUnitTest2()
+        {
+            Assert.AreEqual(2 * 2, 4);
+        }
     }
 }
