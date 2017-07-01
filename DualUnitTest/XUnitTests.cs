@@ -3,7 +3,7 @@ using Xunit;
 
 namespace DualUnitTest
 {
-    internal class XUnitTests
+    public class XUnitTests
     {
         [Fact]
         public void XUnitTest1()
